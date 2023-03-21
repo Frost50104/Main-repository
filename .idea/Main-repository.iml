@@ -5,111 +5,13 @@
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/.idea" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/.idea/inspectionProfiles" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tasks" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv/bin" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv/lib" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/_distutils_hack" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/beautifulsoup4-4.11.1.dist-info" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/bs4" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/bs4/builder" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/bs4/tests" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/certifi" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/certifi-2022.9.24.dist-info" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/charset_normalizer" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/charset_normalizer-2.1.1.dist-info" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/charset_normalizer/assets" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/charset_normalizer/cli" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/idna" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/idna-3.4.dist-info" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy-1.23.3.dist-info" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/.dylibs" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/_pyinstaller" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/_typing" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/array_api" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/array_api/tests" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/compat" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/compat/tests" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/core" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/core/include" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/core/include/numpy" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/core/include/numpy/libdivide" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/core/include/numpy/random" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/core/lib" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/core/lib/npy-pkg-config" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/core/tests" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/core/tests/data" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/core/tests/examples" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/core/tests/examples/cython" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/core/tests/examples/limited_api" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/distutils" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/distutils/checks" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/distutils/command" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/distutils/fcompiler" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/distutils/mingw" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/distutils/tests" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/doc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests/src/abstract_interface" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests/src/array_from_pyobj" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests/src/assumed_shape" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests/src/block_docstring" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests/src/callback" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests/src/cli" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests/src/common" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests/src/crackfortran" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests/src/f2cmap" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests/src/kind" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests/src/mixed" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests/src/module_data" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests/src/negative_bounds" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests/src/parameter" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests/src/quoted_character" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests/src/regression" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests/src/return_character" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests/src/return_complex" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests/src/return_integer" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests/src/return_logical" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests/src/return_real" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests/src/size" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/f2py/tests/src/string" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/fft" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/fft/tests" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/lib" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/lib/tests" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/lib/tests/data" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/linalg" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/linalg/tests" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/ma" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/ma/tests" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/matrixlib" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/matrixlib/tests" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/polynomial" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/polynomial/tests" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/random" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/random/_examples" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/random/_examples/cffi" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/random/_examples/cython" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/random/_examples/numba" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/random/lib" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/random/tests" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/random/tests/data" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/testing" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/testing/_private" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/testing/tests" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/tests" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/typing" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/typing/tests" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/typing/tests/data" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/typing/tests/data/fail" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/typing/tests/data/misc" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/typing/tests/data/pass" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/numpy/typing/tests/data/reveal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/pip" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/pip-21.3.1.dist-info" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/pip/_internal" isTestSource="false" />
@@ -174,8 +76,6 @@
       <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/pkg_resources/tests" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/pkg_resources/tests/data" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/pkg_resources/tests/data/my-test-package-source" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/requests" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/requests-2.28.1.dist-info" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/setuptools" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/setuptools-60.2.0.dist-info" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/setuptools/_distutils" isTestSource="false" />
@@ -185,31 +85,13 @@
       <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/setuptools/_vendor/packaging" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/setuptools/command" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/setuptools/extern" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/soupsieve" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/soupsieve-2.3.2.post1.dist-info" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/soupsieve-2.3.2.post1.dist-info/license_files" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/urllib3" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/urllib3-1.26.12.dist-info" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/urllib3/contrib" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/urllib3/contrib/_securetransport" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/urllib3/packages" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/urllib3/packages/backports" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/urllib3/util" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/wheel" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/wheel-0.37.1.dist-info" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/wheel/cli" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/wheel/vendored" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/wheel/vendored/packaging" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/python practice" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.10" jdkType="Python SDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-  </component>
-  <component name="PyDocumentationSettings">
-    <option name="format" value="PLAIN" />
-    <option name="myDocStringFormat" value="Plain" />
-  </component>
-  <component name="TestRunnerService">
-    <option name="PROJECT_TEST_RUNNER" value="py.test" />
   </component>
 </module>

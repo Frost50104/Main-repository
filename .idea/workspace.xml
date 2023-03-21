@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03c733a5-5ee2-466d-9998-e0fcf108eb65" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Tasks/5.3.18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/5.4.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/B3 Final Task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/C1.10 Practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/C2 Practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/C2 final task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Final Task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Netologia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Rec_func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task 3.2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task 3.2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task 3.3.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task 3.3.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task 3.4.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task 3.7.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task 3.7.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task 3.8.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task 4.4.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task 5.2.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task 5.3.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task 5.3.13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task 5.3.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/Task_4.2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/import cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/points.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/rectangle_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tasks/С1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Main-repository.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Main-repository.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.3.18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.4.9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/B3 Final Task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C1.10 Practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C2 Practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/C2 final task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final Task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Netologia.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rec_func.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 3.2.1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 3.2.2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 3.3.4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 3.3.5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 3.4.2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 3.7.2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 3.7.3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 3.8.1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 4.4.1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 5.2.12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 5.3.11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 5.3.13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 5.3.9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_4.2.1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/import cat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python practice/points.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python practice/rectangle_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/С1.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2NJnrV4LvwtOXzuS4voLwDmq8kg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PythonContentEntriesConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03c733a5-5ee2-466d-9998-e0fcf108eb65" name="Changes" comment="" />
+      <created>1679391252205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679391252205</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
