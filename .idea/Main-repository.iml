@@ -200,8 +200,9 @@
       <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/wheel/cli" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/wheel/vendored" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/venv/lib/python3.10/site-packages/wheel/vendored/packaging" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python practice" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.10" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
